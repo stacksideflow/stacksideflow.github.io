@@ -1,6 +1,5 @@
 {
-    "name": "<h1>NFT's failure</h1>",
-    "description": "<h1>An NFT showing the failure of NFTs.</h1>",
+    "name": "NFT Takeover",
+    "description": "As this NFT was not stored securely we were able to take it over.",
     "image": "https://stacksideflow.github.io/nft.png",
-    "strength": 20
 }
